@@ -1,4 +1,4 @@
-📈 Predicting Term Deposit Subscriptions in Bank Marketing
+## 📈 Predicting Term Deposit Subscriptions in Bank Marketing
 This project focuses on building a classification model to predict whether a client will subscribe to a term deposit based on personal, campaign-related, and economic indicators. The goal is to help banks optimize marketing efforts and improve customer acquisition strategies.
 
 🔍 Problem Statement
